@@ -8,6 +8,8 @@
             <i class="fas fa-address-book"></i>
             </router-link>
             </li>
+            <button class="btn btn-primary" data-toggle="modal" data-target="#exampleModalLong">Login</button>
+            
         </div>
     </nav>
 </template>
